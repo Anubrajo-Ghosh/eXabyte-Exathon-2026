@@ -23,10 +23,10 @@ Lumina is a digital decision-support tool designed to help city planners and cit
 * The Logic: We use 30°C as a baseline for urban comfort. Risk increases with projected temperature rise and decreases as vegetation/cooling infrastructure is added.
 
 ## 🛠️ Tech StackLanguage: 
-* Python 3.x
-* Web Framework: Streamlit (For the visual dashboard) 
-* Geospatial Engine: Folium (For interactive mapping) 
-* Data Processing: Pandas (For risk score calculations and dataset management) 
+* **Python 3.x**
+* Web Framework: **Streamlit** (For the visual dashboard) 
+* Geospatial Engine: **Folium** (For interactive mapping) 
+* Data Processing: **Pandas** (For risk score calculations and dataset management) 
 
 ## 🚀 How to Run Locally
 * Install Dependencies: **Bash** pip install streamlit folium streamlit-folium pandas
