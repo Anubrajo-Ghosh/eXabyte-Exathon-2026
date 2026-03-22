@@ -22,7 +22,7 @@ Lumina is a digital decision-support tool designed to help city planners and cit
 * **HRI = [(Projected Temp - 30) * 1.5] - [(Vegetation % + Simulated Trees) / 10]**
 * The Logic: We use 30°C as a baseline for urban comfort. Risk increases with projected temperature rise and decreases as vegetation/cooling infrastructure is added.
 
-## 🛠️ Tech StackLanguage: 
+## 🛠️ Tech Stack: 
 * Programming language: **Python 3.x**
 * Web Framework: **Streamlit** (For the visual dashboard) 
 * Geospatial Engine: **Folium** (For interactive mapping) 
