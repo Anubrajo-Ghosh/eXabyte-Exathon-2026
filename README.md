@@ -1,6 +1,7 @@
 # eXabyte-Exathon-2026
 **Lumina: Urban Heat Resilience Planner 🌡️** </br>
-**Track 2: Climate & Urban Future Event: Exathon 2026 | St. Xavier's College (Autonomous), Kolkata 📖** 
+**Track 2: Climate & Urban Future** <\br> 
+**Event: Exathon 2026 | St. Xavier's College (Autonomous), Kolkata 📖** 
 
 ## Project Overview:-
 Lumina is a digital decision-support tool designed to help city planners and citizens combat the Urban Heat Island (UHI) effect. As urban temperatures rise due to dense infrastructure and lack of vegetation, Lumina provides a data-driven roadmap to identify high-risk zones and simulate cooling interventions.
