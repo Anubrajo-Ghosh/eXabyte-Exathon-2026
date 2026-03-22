@@ -1,5 +1,5 @@
 # eXabyte-Exathon-2026
-**Lumina: Urban Heat Resilience Planner 🌡️**
+**Lumina: Urban Heat Resilience Planner 🌡️** </br>
 **Track 2: Climate & Urban Future Event: Exathon 2026 | St. Xavier's College (Autonomous), Kolkata 📖** 
 
 ## Project Overview:-
