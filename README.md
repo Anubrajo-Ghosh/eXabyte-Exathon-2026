@@ -34,5 +34,5 @@ Lumina is a digital decision-support tool designed to help city planners and cit
 * Access the Dashboard: Open the URL provided in the terminal (usually http://localhost:8501).
 
 ## 👥 Team 
-Developed by Binary Biologists
+Developed by Binary Biologists </br>
 1st Year MCBA, St. Xavier's College, Kolkata.
