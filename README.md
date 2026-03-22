@@ -33,5 +33,6 @@ Lumina is a digital decision-support tool designed to help city planners and cit
 * Launch the Application: **Bash** streamlit run app.py
 * Access the Dashboard: Open the URL provided in the terminal (usually http://localhost:8501).
 
-## 👥 Team Developed by Binary Biologists
+## 👥 Team 
+Developed by Binary Biologists
 1st Year MCBA, St. Xavier's College, Kolkata.
