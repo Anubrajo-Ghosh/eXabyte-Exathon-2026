@@ -18,7 +18,7 @@ Lumina is a digital decision-support tool designed to help city planners and cit
 
 ## 🧬 The Lumina HRI Algorithm
 * We developed a custom Heat Risk Index (HRI) to quantify urban vulnerability:
-* HRI = [(Projected Temp - 30) * 1.5] - [(Vegetation % + Simulated Trees) / 10]
+* **HRI = [(Projected Temp - 30) * 1.5] - [(Vegetation % + Simulated Trees) / 10]**
 * The Logic: We use 30°C as a baseline for urban comfort. Risk increases with projected temperature rise and decreases as vegetation/cooling infrastructure is added.
 
 ## 🛠️ Tech StackLanguage: 
@@ -28,8 +28,8 @@ Lumina is a digital decision-support tool designed to help city planners and cit
 * Data Processing: Pandas (For risk score calculations and dataset management) 
 
 ## 🚀 How to Run Locally
-* Install Dependencies:Bash pip install streamlit folium streamlit-folium pandas
-* Launch the Application:Bash streamlit run app.py
+* Install Dependencies: **Bash** pip install streamlit folium streamlit-folium pandas
+* Launch the Application: **Bash** streamlit run app.py
 * Access the Dashboard: Open the URL provided in the terminal (usually http://localhost:8501).
 
 ## 👥 Team Developed by Binary Biologists
